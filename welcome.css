@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: #fff;
+    font-size: 1.2rem;
+}
+.Container1{
+    background-color: #ded8d8;
+    display: flex;
+}
+.Container1 img{
+    width:200px;
+    height: 200px;
+    margin: 5% 2%;
+}
+.Container1 .title2{
+    padding: 10% 15%;
+}
+.Container2{
+    background-color: #fff;
+    display: flex;
+}
+.Container2 img{
+    width: 200px;
+    height: 200px;
+    margin: 10% 15%;
+}
+.Container2 .title2{
+    padding: 15% 15%;
+}
+footer{
+    background-color: aquamarine;
+    text-decoration: none;
+}
